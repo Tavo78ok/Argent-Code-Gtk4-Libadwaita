@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Argen Code
+Comment=Editor de código para Open Argentos
+Exec=/usr/bin/argen-code %U
+Icon=argen-code
+Terminal=false
+Type=Application
+Categories=Development;TextEditor;IDE;
+MimeType=text/plain;text/x-python;application/x-shellscript;
+StartupNotify=true
+StartupWMClass=org.openargentos.argencode

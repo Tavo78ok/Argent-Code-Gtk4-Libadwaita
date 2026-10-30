@@ -1,0 +1,9 @@
+Package: argen-code
+Version: 0.2.3
+Section: editors
+Priority: optional
+Architecture: all
+Depends: python3, python3-gi, gir1.2-gtksource-5, libgtksourceview-5-0, libadwaita-1-0, gir1.2-adw-1, gir1.2-gtk-4.0
+Maintainer: Open Argentos <soporte@openargentos.org>
+Description: Editor de código premium y liviano para Open Argentos.
+ Desarrollado en GTK4, Libadwaita y GtkSourceView 5.
